@@ -1,0 +1,384 @@
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="2026 제1회 서울특별시약사회 학술제">
+    <meta property="og:title" content="2026 제1회 서울특별시약사회 학술제">
+    <meta property="og:description" content="멈추지 않는 도전, 진화하는 약사. 국민 건강의 미래를 여는 서울 약사">
+    <meta property="og:image" content="https://spaf2026.vercel.app/kakao-thumbnail-v3.png">
+    <meta property="og:image:width" content="800">
+    <meta property="og:image:height" content="400">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="2026 제1회 서울특별시약사회 학술제">
+    <meta name="twitter:description" content="멈추지 않는 도전, 진화하는 약사. 국민 건강의 미래를 여는 서울 약사">
+    <meta name="twitter:image" content="https://spaf2026.vercel.app/kakao-thumbnail-v3.png">
+    <title>2026 제1회 서울특별시약사회 학술제</title>
+    <link rel="preconnect" href="https://cdn.jsdelivr.net">
+    <link rel="stylesheet" as="style" crossorigin="" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.min.css">
+    <link rel="stylesheet" href="./styles.css">
+  </head>
+  <body>
+    <div class="grain" aria-hidden="true"></div>
+    <header class="site-header">
+      <a class="brand" href="#top" aria-label="학술제 첫 화면으로 이동">
+        <span class="brand-title">제1회 서울특별시약사회 학술제</span>
+      </a>
+      <nav class="nav" aria-label="주요 섹션">
+        <a href="#program">프로그램</a>
+        <a href="#schedule">일정표</a>
+        <a href="#papers">논문 공모</a>
+        <a href="#venue">장소</a>
+      </nav>
+      <a class="nav-cta" href="mailto:spa05@spa.or.kr">문의</a>
+    </header>
+
+    <main id="top">
+      <section class="hero section-dark" aria-label="학술제 소개">
+        <img class="hero-image" src="./assets/hero-crystal-current.png" alt="블루 바이올렛 색감의 약학 학술제 키비주얼">
+        <div class="hero-shade" aria-hidden="true"></div>
+        <canvas class="particle-field" aria-hidden="true"></canvas>
+        <div class="hero-graphics" aria-hidden="true">
+          <span class="orb cyan"></span>
+          <span class="orb pink"></span>
+          <span class="cross cross-a"></span>
+          <span class="cross cross-b"></span>
+          <span class="side-rail">Seoul Pharmaceutical Association</span>
+        </div>
+        <div class="hero-inner">
+          <div class="hero-copy">
+            <p class="eyebrow">2026.05.31 · COEX Magok</p>
+            <h1 class="hero-title">
+              <span class="title-fill">제1회</span>
+              <span class="title-stroke">서울특별시약사회</span>
+              <span class="title-fill">학술제</span>
+            </h1>
+            <p class="slogan">
+              멈추지 않는 도전, 진화하는 약사<br>
+              국민 건강의 미래를 여는 서울 약사
+            </p>
+            <div class="hero-actions">
+              <a class="button primary" href="#program">프로그램 보기</a>
+              <a class="button ghost" href="#schedule">상세 일정</a>
+            </div>
+          </div>
+
+          <aside class="hero-panel" aria-label="행사 핵심 정보">
+            <div class="panel-kicker">Academic Platform</div>
+            <dl class="facts">
+              <div>
+                <dt>일시</dt>
+                <dd>2026년 5월 31일 일요일<br>10:30-17:00</dd>
+              </div>
+              <div>
+                <dt>장소</dt>
+                <dd>코엑스 마곡 컨벤션센터 B2<br>스퀘어볼룸 A</dd>
+              </div>
+              <div>
+                <dt>방향</dt>
+                <dd>현장 경험을 연구와 정책으로<br>연결하는 근거 중심 학술 플랫폼</dd>
+              </div>
+            </dl>
+          </aside>
+        </div>
+        <div class="ticker" aria-hidden="true">
+          <div class="ticker-track">
+            <span>Evidence-based Pharmacy · Community Care · Research Posters · International Symposium · Seoul Pharmacists · </span>
+            <span>Evidence-based Pharmacy · Community Care · Research Posters · International Symposium · Seoul Pharmacists · </span>
+            <span>Evidence-based Pharmacy · Community Care · Research Posters · International Symposium · Seoul Pharmacists · </span>
+            <span>Evidence-based Pharmacy · Community Care · Research Posters · International Symposium · Seoul Pharmacists · </span>
+          </div>
+        </div>
+      </section>
+
+      <section class="intro">
+        <div class="intro-title reveal is-visible" style="--delay: 0ms;">
+          <p class="eyebrow dark">Invitation</p>
+          <h2>모시는 글</h2>
+          <p class="intro-quote">
+            멈추지 않는 도전, 진화하는 약사,<br>
+            국민 건강의 미래를 여는 서울 약사
+          </p>
+        </div>
+        <div class="intro-body reveal is-visible" style="--delay: 40ms;">
+          <p>
+            안녕하십니까.<br>
+            서울시약사회장 김위학입니다.
+          </p>
+          <p>
+            약사 직능이 빠르게 변화하는 시대 속에서 서울특별시약사회는 학술 역량
+            강화와 약학의 새로운 지평을 열고자 제1회 서울특별시약사회 학술제를
+            개최합니다.
+          </p>
+          <p>
+            이번 학술제는 변화 앞에 멈추지 않는 서울 약사의 의지를 담아
+            마련하였습니다. 특히 대북시약사공회, 동경도약제사회 등 해외 약사 단체를
+            초청하여 국제 학술 심포지엄 “돌봄과 약료, 세계는 지금”을 진행하고,
+            국내외 다제약물 관리와 통합돌봄 현장의 생생한 사례를 함께 나누고자
+            합니다. 오늘의 학술적 교류가 내일의 약사 서비스를 바꾸는 씨앗이 되리라
+            믿습니다.
+          </p>
+          <p>
+            여러분의 적극적인 참여와 관심이 이 자리를 더욱 빛나게 할 것입니다. 부디
+            자리를 함께해 주시어, 진화하는 서울 약사의 새로운 여정에 함께해 주시길
+            부탁드립니다.
+          </p>
+          <p>감사합니다.</p>
+          <p class="intro-signature">
+            서울특별시약사회<br>
+            회장 김위학 올림
+          </p>
+        </div>
+      </section>
+
+      <section class="highlights section-light" aria-label="학술제 핵심 정보">
+        <div class="stat-line" aria-label="행사 특징">
+          <span>6개 학회 협력</span>
+          <span>1천만원 상당 시상</span>
+          <span>국제 심포지엄</span>
+        </div>
+        <div class="society-strip" aria-label="협력 학회">
+          <span><img src="./assets/society-logos/01-psk.svg" alt="대한약학회"></span>
+          <span><img src="./assets/society-logos/02-kacp.png" alt="대한약국학회"></span>
+          <span><img src="./assets/society-logos/03-kccp.gif" alt="한국임상약학회"></span>
+          <span><img src="./assets/society-logos/04-kasap.png" alt="한국사회약학회"></span>
+          <span class="wide"><img src="./assets/society-logos/05-pccc.png" alt="한국약사커뮤니케이션과커뮤니티케어학회"></span>
+          <span><img src="./assets/society-logos/06-sports-pharmacy.webp" alt="스포츠약학회"></span>
+        </div>
+      </section>
+
+      <section id="program" class="program section-light">
+        <div class="section-heading reveal is-visible" style="--delay: 80ms;">
+          <p class="eyebrow dark">Program axis</p>
+          <h2>하루 안에<br>밀도 있게 압축한<br>학술제 네 개의 축</h2>
+        </div>
+        <div class="program-grid">
+          <article class="program-main reveal is-visible" style="--delay: 120ms;">
+            <span class="chapter">01</span>
+            <h3>돌봄과 약료, 세계는 지금</h3>
+            <p>
+              대만과 일본의 지역 약료 사례, 유럽과 미국의 다제약물 관리 흐름,
+              국내 통합돌봄 현장의 적용 방향을 함께 조망하는 국제 학술 심포지엄입니다.
+            </p>
+          </article>
+          <article class="program-card reveal is-visible" style="--delay: 160ms;">
+            <span class="chapter">02</span>
+            <h3>송길영 부사장 초청강연</h3>
+            <p>시대예보와 경량문명의 관점에서 사회 변화와 약사 직능의 미래를 함께 살펴봅니다.</p>
+          </article>
+          <article class="program-card reveal is-visible" style="--delay: 200ms;">
+            <span class="chapter">03</span>
+            <h3>우수 논문 발표와 학회 연계</h3>
+            <p>선정된 연구 성과를 발표하고, 연구 포스터 전시와 학회 소개 공간을 통해 현장과 학계를 잇습니다.</p>
+          </article>
+          <article class="program-card reveal is-visible" style="--delay: 240ms;">
+            <span class="chapter">04</span>
+            <h3>종합토의</h3>
+            <p>정부, 지자체, 보험자, 기초자치단체, 서울특별시약사회가 함께 약료와 돌봄의 실행 방향을 논의합니다.</p>
+          </article>
+        </div>
+      </section>
+
+      <section id="schedule" class="schedule">
+        <div class="section-heading schedule-heading reveal is-visible" style="--delay: 280ms;">
+          <p class="eyebrow dark">Detailed schedule</p>
+        </div>
+        <div class="schedule-table" aria-label="학술제 상세 일정">
+          <article class="schedule-row reveal is-visible" style="--delay: 280ms;">
+            <time>10:30-11:20</time>
+            <div>
+              <h3>개회식, 시상식 &amp; 우수 논문 발표</h3>
+              <p>학술제 개막과 우수 연구 발표 및 시상으로 하루의 논의를 시작합니다.</p>
+            </div>
+          </article>
+          <article class="schedule-row reveal is-visible" style="--delay: 280ms;">
+            <time>11:30-13:00</time>
+            <div>
+              <h3>초청 강연 · 시대예보: 경량문명의 탄생</h3>
+              <p>송길영 마인드마이너가 데이터로 읽는 사회 변화와 직능의 미래를 이야기합니다.</p>
+            </div>
+          </article>
+          <article class="schedule-row symposium reveal is-visible" style="--delay: 280ms;">
+            <time>14:00-16:00</time>
+            <div>
+              <span class="session-label">국제 학술 심포지엄</span>
+              <h3>돌봄과 약료, 세계는 지금</h3>
+              <ul>
+                <li>대북시의 가정약사 제도에 관한 현안과 성공 사례 · 왕명원 대북시약사공회 국제이사</li>
+                <li>일본 단골약사제도를 통한 약료사업의 발전방향 · 이누부세 히로오 동경도약제사회 상무이사</li>
+                <li>유럽, 미국 등 다제약물 관리 현황 · 이주연 서울대학교 약학대학 교수</li>
+              </ul>
+            </div>
+          </article>
+          <article class="schedule-row reveal is-visible" style="--delay: 280ms;">
+            <time>16:00-17:00</time>
+            <div>
+              <h3>2부 종합토의</h3>
+              <p>보건복지부, 서울특별시, 국민건강보험공단, 기초자치단체, 서울특별시약사회가 함께 참여합니다.</p>
+            </div>
+          </article>
+        </div>
+      </section>
+
+      <section id="papers" class="papers">
+        <div class="papers-copy reveal is-visible" style="--delay: 280ms;">
+          <p class="eyebrow dark">Call for papers</p>
+          <h2>연구 논문부터<br>에세이까지,<br>현장의 언어를<br>학술 기록으로 남깁니다.</h2>
+          <p>
+            서울특별시약사회 회원과 전국 약학대학 대학원생·대학생을 대상으로 연구논문,
+            연구포스터, 임상 연구 계획서·논문 계획서, 에세이를 공모했습니다. 접수는
+            2026년 5월 6일 마감되었습니다.
+          </p>
+        </div>
+        <div class="timeline" aria-label="논문 공모 일정">
+          <div class="timeline-item reveal is-visible" style="--delay: 280ms;">
+            <time datetime="2026-03-20">03.20</time>
+            <span>접수 시작</span>
+          </div>
+          <div class="timeline-item active reveal is-visible" style="--delay: 280ms;">
+            <time datetime="2026-05-06">05.06</time>
+            <span>접수 마감</span>
+          </div>
+          <div class="timeline-item reveal is-visible" style="--delay: 280ms;">
+            <time datetime="2026-05-15">05.15</time>
+            <span>심사 결과 발표</span>
+          </div>
+          <div class="timeline-item reveal is-visible" style="--delay: 280ms;">
+            <time datetime="2026-05-31">05.31</time>
+            <span>발표·전시</span>
+          </div>
+        </div>
+      </section>
+
+      <section id="venue" class="venue section-dark">
+        <div class="venue-map reveal is-visible" aria-hidden="true" style="--delay: 280ms;">
+          <svg class="venue-map-art" viewBox="0 0 900 620" role="img">
+            <defs>
+              <filter id="mapGlow" x="-30%" y="-30%" width="160%" height="160%">
+                <feGaussianBlur stdDeviation="5" result="blur"></feGaussianBlur>
+                <feMerge>
+                  <feMergeNode in="blur"></feMergeNode>
+                  <feMergeNode in="SourceGraphic"></feMergeNode>
+                </feMerge>
+              </filter>
+            </defs>
+            <g class="map-grid">
+              <path d="M126 76V548"></path>
+              <path d="M306 76V548"></path>
+              <path d="M488 132V426"></path>
+              <path d="M760 76V548"></path>
+              <path d="M126 132H848"></path>
+              <path d="M126 426H848"></path>
+              <path d="M306 76H760"></path>
+              <path d="M126 548H760"></path>
+            </g>
+            <g class="map-dots">
+              <circle cx="238" cy="206" r="12"></circle>
+              <circle cx="424" cy="355" r="12"></circle>
+              <circle cx="366" cy="404" r="12"></circle>
+              <circle cx="190" cy="376" r="12"></circle>
+              <circle cx="648" cy="368" r="12"></circle>
+            </g>
+            <g class="map-labels">
+              <rect class="label-bg" x="178" y="216" width="120" height="70" rx="8"></rect>
+              <text x="238" y="238" text-anchor="middle">이마트</text>
+              <text x="238" y="268" text-anchor="middle">트레이더스</text>
+              <rect class="label-bg" x="430" y="326" width="94" height="62" rx="8"></rect>
+              <text x="446" y="348">K스퀘어</text>
+              <text x="446" y="374">마곡</text>
+              <rect class="label-bg" x="142" y="394" width="96" height="34" rx="8"></rect>
+              <text x="190" y="416" text-anchor="middle">교보문고</text>
+              <rect class="label-bg" x="576" y="385" width="104" height="34" rx="8"></rect>
+              <text x="626" y="407" text-anchor="middle">마곡광장</text>
+              <rect class="label-bg" x="282" y="414" width="96" height="34" rx="8"></rect>
+              <text x="328" y="436" text-anchor="middle">스타벅스</text>
+            </g>
+            <g class="station-labels">
+              <rect class="label-bg station-bg-pink" x="4" y="374" width="112" height="66" rx="8"></rect>
+              <text class="station-pink" x="102" y="398" text-anchor="end">5호선 마곡역</text>
+              <text class="station-pink" x="102" y="424" text-anchor="end">1번출구</text>
+              <rect class="label-bg station-bg-gold" x="782" y="386" width="144" height="62" rx="8"></rect>
+              <text class="station-gold" x="792" y="410">9호선 마곡나루역</text>
+              <text class="station-gold" x="792" y="432">마곡나루광장방면</text>
+              <rect class="label-bg station-bg-cyan" x="570" y="482" width="168" height="66" rx="8"></rect>
+              <text class="station-cyan" x="728" y="506" text-anchor="end">공항철도 마곡나루역</text>
+              <text class="station-cyan" x="728" y="534" text-anchor="end">6번 출구</text>
+            </g>
+            <g class="station-points">
+              <circle class="point-pink" cx="126" cy="426" r="15"></circle>
+              <circle class="point-gold" cx="760" cy="426" r="15"></circle>
+              <circle class="point-cyan" cx="760" cy="454" r="15"></circle>
+            </g>
+            <g class="venue-marker" filter="url(#mapGlow)">
+              <path d="M640 232c0-24 19-43 43-43s43 19 43 43c0 33-43 82-43 82s-43-49-43-82z"></path>
+              <circle cx="683" cy="232" r="17"></circle>
+            </g>
+            <g class="venue-title">
+              <rect class="label-bg venue-title-bg" x="590" y="84" width="184" height="100" rx="10"></rect>
+              <text x="682" y="112" text-anchor="middle">코엑스마곡</text>
+              <text x="682" y="140" text-anchor="middle">컨벤션센터</text>
+              <text x="682" y="168" text-anchor="middle">B2 스퀘어볼룸</text>
+            </g>
+          </svg>
+        </div>
+        <div class="venue-info reveal is-visible" style="--delay: 280ms;">
+          <p class="eyebrow">Location</p>
+          <h2>COEX MAGOK</h2>
+          <h3>컨벤션센터 B2,<br>스퀘어볼룸 A</h3>
+          <div class="venue-details">
+            <div>
+              <strong>주소</strong>
+              <span>서울 강서구 마곡중앙로 143<br>코엑스 마곡 컨벤션센터 B2 스퀘어볼룸A홀</span>
+            </div>
+            <div>
+              <strong>지하철 이용시</strong>
+              <ul class="route-list">
+                <li>9호선 마곡나루역: 마곡나루 광장 방면으로 나와서 오른쪽 방면</li>
+                <li>공항철도 마곡나루역 6번 출구: 에스컬레이터 탑승 전 마곡나루광장 방면(9호선 입구)으로 도보 이동 후 왼쪽 방면</li>
+                <li>5호선 마곡역 1번 출구</li>
+              </ul>
+            </div>
+            <div>
+              <strong>버스 이용시</strong>
+              <ul class="route-list">
+                <li>마곡나루역 하차(정류장 번호: 16396)</li>
+                <li>지선버스: 6645, 6648</li>
+                <li>마을버스: 강서07</li>
+              </ul>
+            </div>
+            <div>
+              <strong>문의</strong>
+              <span>02-767-6000(코엑스마곡 대표전화)</span>
+            </div>
+          </div>
+          <div class="map-links" aria-label="지도 앱으로 장소 열기">
+            <a class="map-link" href="https://naver.me/xjgcDl2K" target="_blank" rel="noopener noreferrer">
+              네이버 지도
+            </a>
+            <a class="map-link" href="https://place.map.kakao.com/1133719823" target="_blank" rel="noopener noreferrer">
+              카카오맵
+            </a>
+          </div>
+        </div>
+      </section>
+
+      <section class="closing reveal is-visible" style="--delay: 280ms;">
+        <div>
+          <p class="eyebrow dark">Seoul pharmacists</p>
+          <h2>근거가 쌓이면 정책이<br>되고, 정책은 국민의<br>건강으로 이어집니다.</h2>
+        </div>
+        <a class="button primary dark" href="mailto:spa05@spa.or.kr">학술제 문의</a>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <img class="footer-ci" src="./assets/seoul-pharm-ci.png" alt="서울특별시약사회">
+      <div class="source-links">
+        <a href="https://www.yakup.com/news/index.html?cat=17&amp;mode=view&amp;nid=326357">약업신문</a>
+        <a href="https://www.wevity.com/index_university.php?c=find&amp;gbn=viewok&amp;gp=16&amp;ix=105883&amp;s=_university">위비티</a>
+        <a href="https://linkareer.com/activity/309997">링커리어</a>
+      </div>
+    </footer>
+
+    <script src="./script.js"></script>
+  
+
+</body>
